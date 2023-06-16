@@ -1,2 +1,2 @@
 # Git
-Информации для работы с Markdown.md
+Информации для работы с Markdown.md и Git
